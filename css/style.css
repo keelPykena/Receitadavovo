@@ -1,0 +1,47 @@
+
+        #menu li {
+            display: inline;
+          
+            padding: 30px;
+          }
+          #menu a {
+          text-decoration: nome;
+          color: rgb(241, 230, 243);
+          }
+          
+          #menu a li:hover {
+            color: rgb(170, 16, 201);
+          }
+          .flex-container {
+            display: flex;
+            justify-content: space-around;
+          }
+
+          .tm-icon{
+              width: 50px;
+              height: 50px;
+
+          }
+          
+          .t-center{
+           text-align: center;
+          }
+
+       .container {
+display: flex;
+flex-flow: row;
+align-items: center;
+justify-content: space-between;
+       }
+
+
+
+
+.lg-form{
+  width: 250px;
+}
+
+.container-rodape{
+  display: flex;
+  justify-content: centers
+}
