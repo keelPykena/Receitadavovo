@@ -5,17 +5,15 @@ site de receita da vovô Palmeirinha🎂
 para trabalhar com este projeto e necessario que tenha instalado na sua maquina os seguinte programa:
 vscode
 
-##✨ tecnologias
+## ✨ tecnologias
 
 - HTML
 - CSS
 - JS
 
 
-##👩autores
+## 👩autores
 Keliane
-
-
 
 
 
