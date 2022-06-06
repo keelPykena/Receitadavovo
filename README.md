@@ -6,9 +6,10 @@ para trabalhar com este projeto e necessario que tenha instalado na sua maquina 
 vscode
 
 ##✨ tecnologias
--HTML
--CSS
--JS
+
+- HTML
+- CSS
+- JS
 
 
 ##👩autores
